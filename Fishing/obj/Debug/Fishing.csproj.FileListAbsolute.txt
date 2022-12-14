@@ -1,0 +1,10 @@
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\bin\Debug\Fishing.exe
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\bin\Debug\Fishing.pdb
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.Form1.resources
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.exe
+C:\Users\ym626\source\repos\ゴールから始めるCSharp\Chapter8\Fishing\Fishing\obj\Debug\Fishing.pdb
